@@ -548,6 +548,10 @@
     }
   
    
+    #sobre {
+      opacity: 1;
+    }
+
     .sobre-left {
       margin-left: 0px;
     }
