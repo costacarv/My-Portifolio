@@ -1,5 +1,5 @@
 /* Reset de estilos para garantir consistência entre navegadores */
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair:wght@300;400;700&family=Roboto:wght@300;700&display=swap');
 
 * {
     margin: 0;
@@ -9,7 +9,7 @@
   
   /* Estilos gerais */
   body {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Playfair', serif;
     line-height: 1.6;
     background: rgba(25, 25, 25);
   }
