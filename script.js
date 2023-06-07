@@ -41,7 +41,7 @@ showTextBtn.addEventListener('click', function() {
 
   setTimeout(function() {
     textContainer.style.display = 'none';
-  }, 3000); 
+  }, 4000); 
 });
 
 const menuBtn = document.querySelector('.items-menu-mobile i')
